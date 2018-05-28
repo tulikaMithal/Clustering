@@ -1,8 +1,8 @@
 # Clustering Techniques 
 
-K-Means
-Agglomerative
-Gaussian Mixture
+-	K-Means
+-	Agglomerative
+-	Gaussian Mixture
 
 Requires Python version: 3.6.2
 
